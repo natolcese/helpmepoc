@@ -43,6 +43,10 @@
 
 [Young Chinese Professional Association](https://www.ycpa.ca/en)
 
+[MCSS](https://mcss.ca/#/)
+
+[The Montreal Chinesse Hospital's](http://www.montrealchinesehospital.ca/home_en.html)
+
 ### Taiwanese
 
 [McGill Taiwanese Students' Association | MTSA](https://ssmu.ca/clubs/religion-culture-clubs/taiwanese-students-association/)
@@ -67,6 +71,8 @@
 
 [Shidokan Kendo & Iaido Club](http://www.shidokanmontreal.ca/)
 
+[Japanese students Association (JSA)](https://ssmu.ca/clubs/religion-culture-clubs/japanese-students-association-jsa/)
+
 ### Korean
 
 [Montreal Korean Community Church](http://www.mkcc.ca/)
@@ -74,6 +80,8 @@
 [Montreal Korean Language and Culture Center](https://www.mklcc.com/)
 
 [Korean Community of Greater Montreal](http://montrealkorea.org/)
+
+[The Korean Students Society(KSS)](https://ssmu.ca/clubs/religion-culture-clubs/mcgill-korean-students-society/)
 
 ### Filipino (Pinay)
 
@@ -95,6 +103,9 @@
 
 [Restaurant Kawali](https://www.facebook.com/RestoKawali/)
 
+[McGill University Filipino Asian Students Association (MUFASA)](https://ssmu.ca/clubs/religion-culture-clubs/mcgill-university-filipino-asian-students-association-mufasa-2/)
+
+[Quepinos](https://quepinos.weebly.com/pinoys-in-quebec.html)
 ### Vietnamese
 
 [Canadian Vietnamese Community](https://vietnam.ca/)
@@ -103,11 +114,15 @@
 
 [Thuyen Ton Buddhist Association](http://thuyentonca.com/)
 
+[MCGILL Vietnamese Students Association (MVSA)](https://ssmu.ca/clubs/religion-culture-clubs/mcgill-vietnamese-students-association-2/)
+
 ### Cambodian
 
 [Khmer History & Civilization Center](https://www.khem.org/khemaracenter.html)
 
 [Canadian Khmer Pagoda](tel:514-735-6901) - Tel. (514) 735-6901
+
+[Centre KHEMARA](https://ssmu.ca/clubs/religion-culture-clubs/mcgill-vietnamese-students-association-2/)
 
 ### Thai
 
@@ -116,6 +131,12 @@
 ### Indian
 
 [Indian Community In Montreal](https://www.facebook.com/groups/767111396642080/)
+
+[indian Students Association(ISA)](https://ssmu.ca/clubs/religion-culture-clubs/indian-students-association-of-mcgill-2/)
+
+[Bharatiya Sangeetha Sangham](https://www.bssmontreal.org)
+
+[Gujarati Samaj of Montreal] (http://www.gujaratisamaj.ca/gsom.aspx)
 
 ### Pakistani
 
